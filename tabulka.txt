@@ -1,0 +1,16 @@
+CVICENI:BODU:PROJEKT
+CDcd:cdddc:cdddd
+1.5:1.4
+Prvni programy:0:
+Cyklus, typy:0:
+Retezce:0:
+Funkce 1:0:
+Struktury:2:
+Ukazatele:2:
+Funkce:0:Obhajoba 1
+Malloc, dbg:2:
+:0:
+:0:
+Iterace, rekurze:2:
+:0:Obhajoba 2
+Dynamicke struktruy:2:
